@@ -14,7 +14,7 @@ PDF2 is a revolutionary document format that embeds structured metadata in PDFs 
 
 #### Email Providers
 - [x] Gmail ✅
-- [ ] Outlook.com/Hotmail
+- [x] Outlook.com/Hotmail ✅
 - [ ] Yahoo Mail
 - [ ] Apple Mail (iCloud)
 - [ ] Corporate Exchange servers
@@ -22,6 +22,7 @@ PDF2 is a revolutionary document format that embeds structured metadata in PDFs 
 
 #### PDF Readers/Viewers
 - [x] Chrome built-in PDF viewer ✅
+- [x] Outlook built-in PDF viewer ✅
 - [ ] Adobe Acrobat Reader DC
 - [ ] Firefox built-in PDF viewer
 - [ ] Safari PDF viewer (Mac)
