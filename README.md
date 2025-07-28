@@ -24,7 +24,7 @@ PDF2 is a revolutionary document format that embeds structured metadata in PDFs 
 - [x] Chrome built-in PDF viewer ✅
 - [x] Outlook built-in PDF viewer ✅
 - [ ] Adobe Acrobat Reader DC
-- [ ] Firefox built-in PDF viewer
+- [x] Firefox built-in PDF viewer ✅
 - [ ] Safari PDF viewer (Mac)
 - [ ] Edge PDF viewer
 - [ ] iOS Safari PDF viewer
@@ -32,7 +32,7 @@ PDF2 is a revolutionary document format that embeds structured metadata in PDFs 
 - [ ] Adobe Acrobat mobile app
 
 #### Cloud Storage Services
-- [ ] Google Drive (upload → download → extract)
+- [x] Google Drive (upload → download → extract) ✅
 - [ ] Dropbox (upload → download → extract)
 - [ ] OneDrive (Microsoft)
 - [ ] iCloud Drive
